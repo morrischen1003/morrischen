@@ -9,6 +9,29 @@
    
 }
 
+.background{
+    background-image:url('./B066086060圖片/background.png');
+    ;
+    width:1000px;
+    height:600px;
+    background-size: cover;
+    margin: 0 auto;
+    opacity:0.7; /*透明度*/
+    display: inline-block;/*照片裡面可以塞東西*/
+    color:#f8f9fa;
+    /* border:1px #ccc solid; */
+   
+}
+
+.hellow{
+color: azure;
+}
+
+body{
+    background-color: #909296; 
+}
+
+
 .container {
     margin-right: auto;
     margin-left: auto;
@@ -31,7 +54,7 @@
     flex-grow: 1;
     max-width: 100%;
     width: 100%;
-    min-height: 100px;
+    /* min-height: 100px; */
     padding-right: 15px;
     padding-left: 15px;
   }
