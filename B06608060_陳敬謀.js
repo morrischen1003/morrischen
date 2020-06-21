@@ -13,14 +13,14 @@ function getinput(){
       if (conf == true) 
         alert("感謝您的蒞臨!  " + res);
       else
-        alert("Hello whoever you are.");
+        alert("不管你是誰，都歡迎");
     }
     else
-      alert("Hello whoever you are.");
+      alert("不管你是誰，都歡迎你!");
   }
   else // if Cancel was clicked
   {
-    alert("See you next time.");
+    alert("我好像認識你喔~~.");
   }
 }
 
