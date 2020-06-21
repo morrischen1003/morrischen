@@ -16,7 +16,7 @@ function getinput(){
         alert("不管你是誰，都歡迎");
     }
     else
-      alert("不管你是誰，都歡迎你!");
+      alert("不管你是誰，都歡迎!");
   }
   else // if Cancel was clicked
   {
