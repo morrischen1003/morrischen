@@ -10,10 +10,7 @@ function getinput(){
     if (res != "")
     {
       conf = confirm("歡迎蒞臨! " + res);
-      if (conf == true) 
-        alert("感謝您的蒞臨!  " + res);
-      else
-        alert("不管你是誰，都歡迎");
+     
     }
     else
       alert("不管你是誰，都歡迎!");
